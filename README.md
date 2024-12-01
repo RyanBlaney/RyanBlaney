@@ -15,4 +15,4 @@ My focus spans from the intricate dance of distributed systems and cloud archite
 - **Tools**: Neovim, tmux, Bash, Git—custom-tuned for speed and precision
 - **Platforms**: AWS, Docker, Kubernetes, Prometheus, Grafana and the bleeding edge of modern DevOps
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBlaney&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBlaney&layout=compact&langs_count=10&theme=rose-pine)
